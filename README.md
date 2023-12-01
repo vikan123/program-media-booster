@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![Screenshot_20231126_144643](https://github.com/vikan123/program-media-booster/assets/121440762/3ea1c65f-b348-4a08-a234-46899cd08cf7)
 
 This project is a starting point for a Flutter application.
 
